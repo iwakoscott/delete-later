@@ -7,3 +7,5 @@ I love coffee!
 
 ### Allergic to cats! 🐈
 ![cat](http://www.catster.com/wp-content/uploads/2017/08/A-fluffy-cat-looking-funny-surprised-or-concerned.jpg)
+
+### I love ice cream 🍦
